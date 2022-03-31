@@ -16,7 +16,7 @@
         class="portfolio-img-con position-relative w-100 float-left wow fadeInUp"
       >
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio2">
+          <a href="http://motors.linsure.co.ke/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -33,10 +33,9 @@
               <p>A web platform where people can sell cars and buy cars</p>
             </div>
             <a
-              href="#"
+              href="http://motors.linsure.co.ke/"
+              target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio2-icon"
             >
               <i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
@@ -45,7 +44,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio2">
+          <a href="http://gatepass.linsure.co.ke/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -65,10 +64,9 @@
               </p>
             </div>
             <a
-              href="#"
+              href="http://gatepass.linsure.co.ke/"
+              target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio2-icon"
             >
               <i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
@@ -77,7 +75,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio3">
+          <a href="#" data-toggle="modal" data-target="#modalporfolio2">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -103,7 +101,7 @@
               href="#"
               class="float-lg-right"
               data-toggle="modal"
-              data-target="#modalporfolio3-icon"
+              data-target="#modalporfolio2"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -111,7 +109,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio4">
+          <a href="http://expertwriters.thetradinghut.net/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -131,10 +129,9 @@
               </p>
             </div>
             <a
-              href="#"
+              href="http://expertwriters.thetradinghut.net/"
+              target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio4-icon"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -142,7 +139,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#">
+          <a href="#" data-toggle="modal" data-target="#modalporfolioIgovern">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -165,7 +162,7 @@
               href="#"
               class="float-lg-right"
               data-toggle="modal"
-              data-target="#modalporfolio4-icon"
+              data-target="#modalporfolioIgovern"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -173,7 +170,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio5">
+          <a href="#" data-toggle="modal" data-target="#modalporfolioLinsure">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -196,7 +193,7 @@
               href="#"
               class="float-lg-right"
               data-toggle="modal"
-              data-target="#modalporfolio5-icon"
+              data-target="#modalporfolioLinsure"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -204,7 +201,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio5">
+          <a href="https://motionpictures.co.ke/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -221,10 +218,9 @@
               <p>Motion Pictures company website</p>
             </div>
             <a
-              href="#"
+              href="https://motionpictures.co.ke/"
+              target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio5-icon"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -232,7 +228,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio5">
+          <a href="https://opticservicesltd.co.uk/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -249,10 +245,9 @@
               <p>Optics Services Limited company website</p>
             </div>
             <a
-              href="#"
+              href="https://opticservicesltd.co.uk/"
+              target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio5-icon"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -260,7 +255,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio5">
+          <a href="https://toughforcesecurity.co.uk/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -277,10 +272,8 @@
               <p>Tough Force Security company website</p>
             </div>
             <a
-              href="#"
+              href="https://toughforcesecurity.co.uk/" target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio5-icon"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -288,7 +281,7 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="#" data-toggle="modal" data-target="#modalporfolio5">
+          <a href="https://thetradinghut.net" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
@@ -308,10 +301,8 @@
               </p>
             </div>
             <a
-              href="#"
+              href="https://thetradinghut.net" target="_blank"
               class="float-lg-right"
-              data-toggle="modal"
-              data-target="#modalporfolio5-icon"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -322,8 +313,16 @@
     </div>
   </section>
   <!-- portfolio section -->
+
+  <EgezaComponent />
+  <IgovernComponent />
+  <LinsureComponent />
 </template>
 
-<script setup></script>
+<script setup>
+import EgezaComponent from "@/components/EgezaComponent.vue";
+import IgovernComponent from "@/components/IgovernComponent.vue";
+import LinsureComponent from "@/components/LinsureComponent.vue";
+</script>
 
 <style></style>

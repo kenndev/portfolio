@@ -68,7 +68,7 @@
                     </ul>
                     <p>
                       A full stack software developer with over 8 years of experience<br />
-                      with a specialty with Vue js and Laravel.
+                      with a specialty in Vue js and Laravel.
                     </p>
                   </div>
                   <div class="banner-btn generic-btn d-inline-block">

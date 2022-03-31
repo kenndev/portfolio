@@ -29,8 +29,8 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Furni furniture UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Motor sale website</h4>
+              <p>A web platform where people can sell cars and buy cars</p>
             </div>
             <a
               href="#"
@@ -58,8 +58,11 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Furni furniture UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Visitor Management System</h4>
+              <p>
+                isitor management system for housing society and is meant to
+                keep the proper record of the visitors
+              </p>
             </div>
             <a
               href="#"
@@ -87,8 +90,14 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Mobile UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Egeza</h4>
+              <p>
+                An enterprise software that gathers and analyses live
+                information on how parking space is being used. Accurate
+                vehicle-by-vehicle, minute-by-minute data on actual usage of
+                parking facilities giving the owner a leading edge in day-to-day
+                management and future planning.
+              </p>
             </div>
             <a
               href="#"
@@ -115,8 +124,11 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Businesscard UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Expert Writers</h4>
+              <p>
+                Expert Writers is a one-stop-shop for custom written papers. It
+                provides a custom paper writing service to its clients
+              </p>
             </div>
             <a
               href="#"
@@ -143,8 +155,11 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Businesscard UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>iGovern</h4>
+              <p>
+                An All-in-one enterprise county revenue collection and
+                management system
+              </p>
             </div>
             <a
               href="#"
@@ -171,8 +186,11 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Real estate UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Linsure Insurance Management System</h4>
+              <p>
+                A management portal targeting insurance brokers that makes
+                running of their business simpler.
+              </p>
             </div>
             <a
               href="#"
@@ -199,8 +217,8 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Real estate UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Motion Pictures</h4>
+              <p>Motion Pictures company website</p>
             </div>
             <a
               href="#"
@@ -227,8 +245,8 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Real estate UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Optics Services Limited</h4>
+              <p>Optics Services Limited company website</p>
             </div>
             <a
               href="#"
@@ -255,8 +273,8 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Real estate UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>Tough Force Security</h4>
+              <p>Tough Force Security company website</p>
             </div>
             <a
               href="#"
@@ -283,8 +301,11 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Real estate UI Design</h4>
-              <p>Dolar repellendus temporibus...</p>
+              <h4>The Trading Hut</h4>
+              <p>
+                A finance platform that provides market analysis and robots to
+                trade the financial markets
+              </p>
             </div>
             <a
               href="#"

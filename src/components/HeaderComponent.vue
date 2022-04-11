@@ -67,8 +67,8 @@
                       <li><h1>Kennedy Wachira</h1></li>
                     </ul>
                     <p>
-                      A full stack software developer with over 8 years of experience<br />
-                      with a specialty in Vue js and Laravel.
+                      A full stack software developer with over 7 years of experience<br />
+                      with a specialty in Vue.js and Laravel.
                     </p>
                   </div>
                   <div class="banner-btn generic-btn d-inline-block">
@@ -84,7 +84,7 @@
                 >
                   <figure class="mb-0">
                     <img
-                      src="assets/image/kenn.png"
+                      src="assets/image/ken1.png"
                       alt="banner-right-img"
                       id="banner-right-img"
                     />
@@ -104,13 +104,13 @@
                       </figure>
                       <div class="best-award-title">
                         <p class="mb-0">
-                          Senior Software <br />
+                          Fullstack Software <br />
                           Developer.
                         </p>
                       </div>
                     </div>
                   </div>
-                  <div
+                  <!-- <div
                     class="best-award-con d-inline-block happy-con wow bounceInUp"
                     data-wow-duration="1s"
                     data-wow-delay="1s"
@@ -132,7 +132,7 @@
                         >
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <div class="cursor"></div>
                   <div class="cursor2"></div>
                 </div>

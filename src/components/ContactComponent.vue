@@ -93,11 +93,11 @@
                     <small id="emailHelp" class="form-text text-muted"></small>
                   </div>
                 </div>
-                <div class="col-lg-12 col-md-12">
+                <!-- <div class="col-lg-12 col-md-12">
                   <div class="form-group mb-0">
                     <input type="tel" name="from_number" placeholder="Phone" />
                   </div>
-                </div>
+                </div> -->
               </div>
               <div class="row">
                 <div class="col-lg-12">

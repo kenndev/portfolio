@@ -1,4 +1,4 @@
-# portfolio
+# Creative Kenn portfolio website made in Vue3
 
 ## Project setup
 ```

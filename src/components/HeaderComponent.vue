@@ -84,7 +84,7 @@
                 >
                   <figure class="mb-0">
                     <img
-                      src="assets/image/ken1.png"
+                      src="assets/image/kenn.png"
                       alt="banner-right-img"
                       id="banner-right-img"
                     />

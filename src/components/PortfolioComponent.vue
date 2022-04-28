@@ -16,6 +16,93 @@
         class="portfolio-img-con position-relative w-100 float-left wow fadeInUp"
       >
         <div class="filterDiv position-relative show">
+          <a href="http://expertwriters.thetradinghut.net/" target="_blank">
+            <div class="portfolio-img position-relative">
+              <figure>
+                <img
+                  src="assets/image/port-expert1.png"
+                  alt="portfolio-img1"
+                  class="img-fluid"
+                />
+              </figure>
+            </div>
+          </a>
+          <div class="portfolio-img-content text-left">
+            <div class="portfolio-img-title d-inline-block">
+              <h4>Expert Writers</h4>
+              <p>
+                Expert Writers is a one-stop-shop for custom written papers. It
+                provides a custom paper writing service to its clients
+              </p>
+            </div>
+            <a
+              href="http://expertwriters.thetradinghut.net/"
+              target="_blank"
+              class="float-lg-right"
+              ><i
+                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
+              ></i
+            ></a>
+          </div>
+        </div>
+        <div class="filterDiv position-relative show">
+          <a href="https://motionpictures.co.ke/" target="_blank">
+            <div class="portfolio-img position-relative">
+              <figure>
+                <img
+                  src="assets/image/port-motion1.png"
+                  alt="portfolio-img1"
+                  class="img-fluid"
+                />
+              </figure>
+            </div>
+          </a>
+          <div class="portfolio-img-content text-left">
+            <div class="portfolio-img-title d-inline-block">
+              <h4>Motion Pictures</h4>
+              <p>Motion Pictures company website</p>
+            </div>
+            <a
+              href="https://motionpictures.co.ke/"
+              target="_blank"
+              class="float-lg-right"
+              ><i
+                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
+              ></i
+            ></a>
+          </div>
+        </div>
+        <div class="filterDiv position-relative show">
+          <a href="https://thetradinghut.net" target="_blank">
+            <div class="portfolio-img position-relative">
+              <figure>
+                <img
+                  src="assets/image/port-tradinghut1.png"
+                  alt="portfolio-img1"
+                  class="img-fluid"
+                />
+              </figure>
+            </div>
+          </a>
+          <div class="portfolio-img-content text-left">
+            <div class="portfolio-img-title d-inline-block">
+              <h4>The Trading Hut</h4>
+              <p>
+                A finance platform that provides market analysis and robots to
+                trade the financial markets
+              </p>
+            </div>
+            <a
+              href="https://thetradinghut.net"
+              target="_blank"
+              class="float-lg-right"
+              ><i
+                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
+              ></i
+            ></a>
+          </div>
+        </div>
+        <div class="filterDiv position-relative show">
           <a href="http://motors.linsure.co.ke/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
@@ -34,37 +121,6 @@
             </div>
             <a
               href="http://motors.linsure.co.ke/"
-              target="_blank"
-              class="float-lg-right"
-            >
-              <i
-                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
-              ></i>
-            </a>
-          </div>
-        </div>
-        <div class="filterDiv position-relative show">
-          <a href="http://gatepass.linsure.co.ke/" target="_blank">
-            <div class="portfolio-img position-relative">
-              <figure>
-                <img
-                  src="assets/image/port-date1.png"
-                  alt="portfolio-img1"
-                  class="img-fluid"
-                />
-              </figure>
-            </div>
-          </a>
-          <div class="portfolio-img-content text-left">
-            <div class="portfolio-img-title d-inline-block">
-              <h4>Visitor Management System</h4>
-              <p>
-                isitor management system for housing society and is meant to
-                keep the proper record of the visitors
-              </p>
-            </div>
-            <a
-              href="http://gatepass.linsure.co.ke/"
               target="_blank"
               class="float-lg-right"
             >
@@ -102,36 +158,6 @@
               class="float-lg-right"
               data-toggle="modal"
               data-target="#modalporfolio2"
-              ><i
-                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
-              ></i
-            ></a>
-          </div>
-        </div>
-        <div class="filterDiv position-relative show">
-          <a href="http://expertwriters.thetradinghut.net/" target="_blank">
-            <div class="portfolio-img position-relative">
-              <figure>
-                <img
-                  src="assets/image/port-expert1.png"
-                  alt="portfolio-img1"
-                  class="img-fluid"
-                />
-              </figure>
-            </div>
-          </a>
-          <div class="portfolio-img-content text-left">
-            <div class="portfolio-img-title d-inline-block">
-              <h4>Expert Writers</h4>
-              <p>
-                Expert Writers is a one-stop-shop for custom written papers. It
-                provides a custom paper writing service to its clients
-              </p>
-            </div>
-            <a
-              href="http://expertwriters.thetradinghut.net/"
-              target="_blank"
-              class="float-lg-right"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
               ></i
@@ -201,11 +227,11 @@
           </div>
         </div>
         <div class="filterDiv position-relative show">
-          <a href="https://motionpictures.co.ke/" target="_blank">
+          <a href="http://gatepass.linsure.co.ke/" target="_blank">
             <div class="portfolio-img position-relative">
               <figure>
                 <img
-                  src="assets/image/port-motion1.png"
+                  src="assets/image/port-date1.png"
                   alt="portfolio-img1"
                   class="img-fluid"
                 />
@@ -214,17 +240,21 @@
           </a>
           <div class="portfolio-img-content text-left">
             <div class="portfolio-img-title d-inline-block">
-              <h4>Motion Pictures</h4>
-              <p>Motion Pictures company website</p>
+              <h4>Visitor Management System</h4>
+              <p>
+                isitor management system for housing society and is meant to
+                keep the proper record of the visitors
+              </p>
             </div>
             <a
-              href="https://motionpictures.co.ke/"
+              href="http://gatepass.linsure.co.ke/"
               target="_blank"
               class="float-lg-right"
-              ><i
+            >
+              <i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"
-              ></i
-            ></a>
+              ></i>
+            </a>
           </div>
         </div>
         <div class="filterDiv position-relative show">
@@ -272,36 +302,8 @@
               <p>Tough Force Security company website</p>
             </div>
             <a
-              href="https://toughforcesecurity.co.uk/" target="_blank"
-              class="float-lg-right"
-              ><i
-                class="fas fa-arrow-right d-flex align-items-center justify-content-center"
-              ></i
-            ></a>
-          </div>
-        </div>
-        <div class="filterDiv position-relative show">
-          <a href="https://thetradinghut.net" target="_blank">
-            <div class="portfolio-img position-relative">
-              <figure>
-                <img
-                  src="assets/image/port-tradinghut1.png"
-                  alt="portfolio-img1"
-                  class="img-fluid"
-                />
-              </figure>
-            </div>
-          </a>
-          <div class="portfolio-img-content text-left">
-            <div class="portfolio-img-title d-inline-block">
-              <h4>The Trading Hut</h4>
-              <p>
-                A finance platform that provides market analysis and robots to
-                trade the financial markets
-              </p>
-            </div>
-            <a
-              href="https://thetradinghut.net" target="_blank"
+              href="https://toughforcesecurity.co.uk/"
+              target="_blank"
               class="float-lg-right"
               ><i
                 class="fas fa-arrow-right d-flex align-items-center justify-content-center"

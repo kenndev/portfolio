@@ -47,8 +47,8 @@
                   <h4>Web Development</h4>
                   <p>
                     I'm a Web Developer with a mix of back-end and front-end
-                    skills, an expert in Laravel and Vue Js. I can also code
-                    scripts to handle large amounts of data and analytics.
+                    skills, an expert in React and Vue.js with lots of experience building
+                    PWA (progressive web apps).
                   </p>
                 </div>
               </div>
@@ -69,7 +69,7 @@
                   <p>
                     As a cross-platform application developer, I can help you
                     build performant mobile applications. I have a strong
-                    development background in Ionic.
+                    development background in React Native and Ionic framework.
                   </p>
                 </div>
               </div>

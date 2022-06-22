@@ -136,7 +136,7 @@
               <h6>My Skills</h6>
               <h2>Beautiful & Unique Digital Experiences</h2>
               <p>
-                I am a full stack web developer. My background as an engineer
+                My background as a team lead developer
                 has helped me organize and manage people in dynamic, fast paced
                 environments. This is also one of the reasons I choose to become
                 a full stack web developer, because it satisfies my inner
@@ -145,9 +145,9 @@
               </p>
               <p>
                 In my personal life you may find me
-                cooking and enjoying the company of close friends and family,
-                working out, going for hikes or walks, playing video games,
-                listening to music or reading a good book.
+                grilling and enjoying the company of close friends and family,
+                working out, going for hikes or walks, watching football (sucks to be a Manchester United fan) 
+                or reading a good book.
               </p>
               <div class="generic-btn download-bnt">
                 <a href="#" id="downloadImg" onclick="downloadImage()"

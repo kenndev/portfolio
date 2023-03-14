@@ -3,13 +3,13 @@
   <div class="w-100 float-left weight-footer-con position-relative">
     <div class="container">
       <div class="weight-footer-content text-center wow fadeInUp">
-        <figure class="">
+        <!-- <figure class="">
           <img
             src="assets/image/logo.png"
             alt="footer-logo"
             class="img-fluid"
           />
-        </figure>
+        </figure> -->
         <div class="footer-navbar">
           <ul class="list-unstyled">
             <li class="d-inline-block border-left-0 pl-0">

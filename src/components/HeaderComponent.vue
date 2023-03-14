@@ -67,8 +67,10 @@
                       <li><h1>Kennedy Wachira</h1></li>
                     </ul>
                     <p>
-                      A full stack software developer with over 7 years of experience<br />
-                      with a specialty in React, Vue.js, Django & Laravel.
+                      
+                      A brilliant and prolific full-stack software developer. <br />
+                      I have been coding professionally for over 7 years now, <br />
+                      enjoying every minute of it, and learning multiple new tools and technologies.
                     </p>
                   </div>
                   <div class="banner-btn generic-btn d-inline-block">
@@ -84,7 +86,7 @@
                 >
                   <figure class="mb-0">
                     <img
-                      src="assets/image/kenn.png"
+                      src="assets/image/nnek2.png"
                       alt="banner-right-img"
                       id="banner-right-img"
                     />

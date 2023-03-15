@@ -35,7 +35,7 @@
         </div>
       </div>
       <div class="copy-right-content text-center">
-        <p class="mb-0">Copyright {{date}} Creative Kenn | All Rights Reserved.</p>
+        <p class="mb-0">Copyright {{date}} Creative Kenn | All Rights Reserved. <br> Powered by Vue.js</p>
       </div>
     </div>
   </div>

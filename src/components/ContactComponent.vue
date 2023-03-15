@@ -135,7 +135,7 @@ const sendEmail = () => {
   internalInstance.appContext.config.globalProperties.$Progress.start();
   emailjs
     .sendForm(
-      "service_1jthu9n",
+      "service_hyaizya",
       "template_7qx28ho",
       form.value,
       "r30izNmNRbE6dWf2x"

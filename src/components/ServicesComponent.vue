@@ -28,7 +28,7 @@
                     As a skilled frontend developer, I am adept at creating visually stunning and user-friendly interfaces
                     using HTML, CSS, and JavaScript. With a strong understanding of responsive design principles and
                     experience collaborating with back-end developers, I am confident in my ability to create seamless
-                    user experiences across a variety of devices and platforms. Additionally, I have a passion for staying
+                    user experiences across a variety of devices and platforms. </p><p>Additionally, I have a passion for staying
                     up-to-date with the latest web development technologies and trends, allowing me to create innovative
                     and cutting-edge designs. I am eager to apply my skills and experience to a dynamic and collaborative
                     team, and to continue growing as a frontend developer.
@@ -45,8 +45,8 @@
                 <div class="service-box-item-content">
                   <h4>Backend Developer</h4>
                   <p>
-                    As a back end developer, I bring a strong foundation in programming languages such as PHP, Java, Python and SQL, as well as experience in designing and implementing RESTful APIs, database management, and cloud technologies like AWS and Azure. With a passion for building scalable and efficient systems, I thrive in collaborative environments and am always looking to expand my skill set and stay up-to-date with the latest industry developments. I am eager to bring my expertise to a dynamic team and help drive innovative solutions that deliver impactful results.
-                  </p>
+                    As a back end developer, I bring a strong foundation in programming languages such as PHP, Java, Python and SQL, as well as experience in designing and implementing RESTful APIs, database management, and cloud technologies like AWS and Azure. </p><p>With a passion for building scalable and efficient systems, I thrive in collaborative environments and am always looking to expand my skill set and stay up-to-date with the latest industry developments. I am eager to bring my expertise to a dynamic team and help drive innovative solutions that deliver impactful results.</p> 
+                  <p></p>
                 </div>
               </div>
             </div>
